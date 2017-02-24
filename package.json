@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express-gitlab",
+  "version": "1.0.0",
+  "description": "Simple App",
+  "main": "server.js",
+  "dependencies": {
+    "cookie-parser": "*",
+    "express": "*",
+    "express-session": "*",
+    "parse-git-config": "^1.1.1",
+    "passport": "*",
+    "passport-gitlab2": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Nilsen",
+  "license": "MIT"
+}

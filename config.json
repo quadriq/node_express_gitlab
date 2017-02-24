@@ -1,0 +1,6 @@
+{
+  "clientID":"cccccccccccc",
+  "clientSecret": "ccccccccccccccc",
+  "callbackURL": "http://localhost:3000/oauth/callback",
+  "baseURL": "https://gitlab.com"
+}
